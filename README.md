@@ -16,6 +16,7 @@ This repository contains all my **personal notes, research, and prep material** 
 * Refined Presentation with my explanations — [`Refined - Presentation.md`](./Refined%20-%20Presentation.md)
 * Miscellaneous — [`Misc.md`](./Misc.md)
 * My actual PowerPoint Presentation — [`Safeguarding Government Data in Cloud.pptx`](./Safeguarding%20Government%20Data%20in%20Cloud.pptx)
+* At last, My Interview — [Interview Link](https://youtu.be/ZzXiWLlMSas)
 
 I hope these resources help you as much as they helped me while navigating the topic.
 Thanks for stopping by, and best of luck with your own EduQual journey! 🚀
